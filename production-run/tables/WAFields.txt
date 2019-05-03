@@ -1,0 +1,15 @@
+-:h:0:RU_TEND_ADV,RU_TEND_PGF,RV_TEND_ADV,T_TEND_ADV,RV_TEND_PGF,RESM
+-:h:0:CLDFRA,LAKEMASK,SNOWC,SNOWNC,TLP_STRAT,P_STRAT,LAI,SNOWH
+-:h:0:znu,NEST_POS,P_HYD,SR,RDX,RDY,ZETATOP,ITIMESTEP,SAVE_TOPO_FROM_REAL
+-:h:0:lh_force,tsk_force,lh_force_tend,HFX_FORCE_TEND
+-:h:0:znw,zs,dzs,mu,fnm,fnp,rdnw,rdn,dnw,dn,cfn,cfn1,tslb,SH2O,SFROFF,UDROFF,CANWAT,SSTSK,EL_PBL,TLP,TISO,MAX_MSTFX,MAX_MSTFY
+-:h:0:cf1,cf2,cf3,shdmax,shdmin,snoalb,xicem,grdflx,coszen,var,mapfac_m,mapfac_u,mapfac_v,mapfac_mx,mapfac_my,mapfac_ux,mapfac_uy,mapfac_vx,mf_vx_inv,mapfac_vy
+-:h:0:graupelnc,hailnc,albedo,clat,albbck,emiss,noahres,acgrdflx,achfx,aclhf,acsnom,isltyp,ivgtyp,qrain,qsnow,rainsh
+-:h:0:tmn,qfx,qcloud,olr,E,F,VAR_SSO,SST_INPUT,MUB
+-:h:0:ACLWDNB,ACLWDNBC,ACLWDNT,ACLWDNTC,ACLWUPB,ACLWUPBC,ACLWUPT,ACLWUPTC
+-:h:0:ACSWDNB,ACSWDNBC,ACSWDNT,ACSWDNTC,ACSWUPB,ACSWUPBC,ACSWUPT,ACSWUPTC
+-:h:0:I_ACLWDNB,I_ACLWDNBC,I_ACLWDNT,I_ACLWDNTC,I_ACLWUPB,I_ACLWUPBC,I_ACLWUPT,I_ACLWUPTC
+-:h:0:I_ACSWDNB,I_ACSWDNBC,I_ACSWDNT,I_ACSWDNTC,I_ACSWUPB,I_ACSWUPBC,I_ACSWUPT,I_ACSWUPTC
+-:h:0:LWDNB,LWDNBC,LWDNT,LWDNTC,LWUPB,LWUPBC,LWUPT,LWUPTC
+-:h:0:SWDNB,SWDNBC,SWDNT,SWDNTC,SWUPB,SWUPBC,SWUPT,SWUPTC
+-:h:0:smcrel,qice
