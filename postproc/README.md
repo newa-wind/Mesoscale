@@ -13,10 +13,10 @@ numpy, netCDF4, pyproj, wrf
 
 **Needed files:** 	
 * `newa2timeseries.py` (main script)
-	* `newa2nc.py` (module loaded inside main script)
+* `newa2nc.py` (module loaded inside main script)
 
 **Usage:** 
-*`python3 newa2timeseries.py 	$PATHTOWRFOUTFILES`
+* `python3 newa2timeseries.py 	$PATHTOWRFOUTFILES`
 
 **Other comments:**
 
