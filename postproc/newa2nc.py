@@ -5,7 +5,7 @@ V0 - MD - 28.03.2018 - Moved functions to this module
 V1 - MD - 16.04.2018 - Final Check of the Files
 V2 - MD - 26.04.2018 - Bug Fixes According to Slack Discussion
 
-(c) Fraunhofer IWES
+(c) The NEWA consortium
 """
 import datetime
 import numpy as np
