@@ -19,6 +19,8 @@ numpy, netCDF4, pyproj, wrf
 
 **Other comments:**
 
+* The output from the post processing is following CF-1.6 conventions. 
+
 * The setup assumes daily output files from WRF with using three nested domains.
 Just the innermost domain is post-processed (D03). I.e. the script takes 
 (wrfout_d03*) as input that are located in $PATHTOWRFOUTFILES. 
@@ -28,4 +30,4 @@ In a regular WRF setup that is the directory where wrf.exe is executed.
 single time step of 00:00:00 of the last day). 
 
 * The file prefix can be defined by a system variable "NEWARUNNAME" that the python3
-script reads for the system or defined by the parameter prefix in newa2timeseries.py
+script reads for the system or defined by the parameter prefix in `newa2timeseries.py`
