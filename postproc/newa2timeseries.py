@@ -15,8 +15,7 @@ V5: 28.05.2018 - MD - WRF-Python Interpolation from neda,DTU
 USAGE: python3 newaoutfinal.py FILENAME
               (Optional: PREFIXOFNEWFILE)
 
-(c) Fraunhofer IWES
-(c) Carl von Ossietzky Universität Oldenburg
+(c) The NEWA consortium
 """
 import re
 import os
