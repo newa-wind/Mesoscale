@@ -23,7 +23,7 @@ def createdatv(times):
      Out: Time Vector in Datetime format (datev)
      """
      t0=datetime.datetime.strptime(times[0].tostring().decode('utf-8'), '%Y-%m-%d_%H:%M:%S')
-     t1=datetime.datetime.strptime(times[-1].tostring().decode('utf-8'), '%Y-%m-%d_%H:%M:%S')
+     t1=datetime.datetime.strptime(times[1].tostring().decode('utf-8'), '%Y-%m-%d_%H:%M:%S')
      ts=(t1-t0).total_seconds()
      datev=[]
      for i in range(0,len(times)):
